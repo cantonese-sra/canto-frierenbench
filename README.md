@@ -39,4 +39,5 @@ The prompt to put into any given LLM is available here at `./frieren-prompt.txt`
 | OpenAI o3-mini-high           |            | NO                     | YES       |          |        |
 | xAI Grok 3                    |            | NO                     | YES       |          |        |
 | DeepSeek R1                   |            | NO                     | NO        |          |        |
+| Llama 3.3 70b Versatile       | -          | NO                     | YES       | -        |        |
 | Alibaba Qwen 2.5 Max          | -          | -                      | -         | -        | Failed |
